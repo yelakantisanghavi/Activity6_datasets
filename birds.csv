@@ -1,6 +1,6 @@
 Body_Length,Wing_Span,Beak_Length,Beak_Width,birds_species
-1.5,2.4,0.3,0.11,Sparrow
-1.4,2.8,0.4,0.12,Sparrow
+1.5,2.4,0.32,0.11,Sparrow
+1.4,2.8,0.31,0.12,Sparrow
 1.5,3.25,0.52,0.1,Finch
 1.4,2.68,0.52,0.1,Finch
 1.6,3.62,0.51,0.15,Blue Jay
