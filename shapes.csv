@@ -1,0 +1,12 @@
+Shape,Area,Perimeter,Number_of_Sides
+Circle,100,35,0
+Square,100,40,4
+Triangle,86.6,30,3
+Rectangle,120,50,4
+Pentagon,118,45,5
+Hexagon,144,55,6
+Octagon,186,65,8
+Star,180,60,5
+Heart,90,35,0
+Rhombus,120,45,4
+Trapezoid,110,42,4
